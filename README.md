@@ -1,6 +1,6 @@
 # Hi, I'm 张钿思 (cater) 👋
 
-河南大学软件学院网络工程专业本科生（2026 级），喜欢折腾 Linux 自托管、全栈工具与算法竞赛。
+河南大学软件学院网络工程专业本科生（2026 级），我是蠢猪。
 
 🌐 **个人博客与入口**：[https://stillfloating.top](https://stillfloating.top)
 
